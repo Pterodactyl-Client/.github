@@ -1,1 +1,1 @@
-# .github
+# Pterodactyl Client Development
